@@ -1,4 +1,4 @@
-# Charting Kickstarter Outcomes with Excel
+# Using Excel to Analyze the Outcomes of Kickstarter Campaigns
 
 In this project, I analyzed the outcomes of Campaigns on Kickstarter to find which campaigns are more likely to be successful.
 
